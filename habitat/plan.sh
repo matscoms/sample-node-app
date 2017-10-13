@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=jw
+pkg_origin=mm
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
